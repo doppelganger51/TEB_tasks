@@ -1,4 +1,5 @@
 # Zadania dla szkoły policealnej TEB
+
 KALKULATOR
 
 Program ma nas pytać o działanie, następnie po podaniu prawidłowego działania ma poprosić o dwie liczby i wyświetlić wynik działania. Jeśli podamy złe działanie program ma nas o tym poinformować. Jeśli wciśniemy przy wyborze działania "x" program ma się wyłączyć
@@ -33,7 +34,7 @@ opcje do wyboru w programie:
     Walka(program losuje obrażenia w pętli gry odejmujemy za pomocą funkcji walka obrazenia wylosowane od życia i dodajemy w tej samej funkcji exp (stała wartość)
     if że jeśli mamy mniej niż 0 życia to przegraliśmy
 
-Librus
+LIBRUS
 
 Program ma być w pełni działającym dziennikiem. Trzy klasy: Main, Dziennik, Uczeń.
 
